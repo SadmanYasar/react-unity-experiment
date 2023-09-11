@@ -28,7 +28,7 @@ body {
 
 .container {
   position: relative;
-  /* The container determains the size. */
+  /* The container determines the size. */
   width: 800px;
   height: 600px;
 }
